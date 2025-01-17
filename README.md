@@ -1,2 +1,0 @@
-# AplikasiCekCuaca
-Tugas 6
